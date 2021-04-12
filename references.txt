@@ -1,0 +1,6 @@
+https://superuser.com/questions/253786/how-can-i-make-tmux-use-my-default-shell
+https://www.programiz.com/python-programming/methods/built-in/sorted
+https://www.geeksforgeeks.org/program-round-robin-scheduling-set-1/
+https://www.programiz.com/python-programming/methods/list/remove
+https://stackoverflow.com/questions/20309456/call-a-function-from-another-file
+https://www.geeksforgeeks.org/difference-between-turn-around-time-tat-and-waiting-time-wt-in-cpu-scheduling/
